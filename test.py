@@ -1,0 +1,1 @@
+print("Uar bought a claviatura")
