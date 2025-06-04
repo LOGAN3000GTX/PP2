@@ -19,9 +19,13 @@ print(type(y))
 print(type(z))
 print(type(q))
 """
-
+"""
 txt = str(input())
 if "Aaron" in txt:
      print("yes")
 else:
      print("no")
+"""
+word = "POSITION"
+print(word[0:1] + " " + word[1:4] + " " + word[2] + " " + word[3])
+print(word[4:])
