@@ -26,6 +26,14 @@ if "Aaron" in txt:
 else:
      print("no")
 """
+"""
 word = "POSITION"
 print(word[0:1] + " " + word[1:4] + " " + word[2] + " " + word[3])
 print(word[4:])
+"""
+
+models = ['YOLO1', 'YOLO2', 'YOLO3', 'YOLO4', 'YOLO5', 'YOLO6', 'YOLO7', 'YOLO8', 'YOLO9', 'YOLO10', 'YOLO11']
+print(models[2:8])
+print("The best and understable neural models is ", models[7] + " and " + models[9])
+
+
