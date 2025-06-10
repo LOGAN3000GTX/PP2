@@ -1,4 +1,4 @@
-# 1. Write a for loop that prints squares of numbers from 1 to 10.
+﻿# 1. Write a for loop that prints squares of numbers from 1 to 10.
 for i in range(1, 10):
     print(f"{i}^2 = {i ** 2}")
 # 2. Create a list of 5 words and output the length of each word.

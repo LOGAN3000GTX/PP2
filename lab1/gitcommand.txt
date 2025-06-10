@@ -1,0 +1,17 @@
+mkdir folder
+echo "TEXT" foldername/name file
+touch file name
+cd folder name
+cd ..
+cd .
+
+
+git init
+git add .
+git add file name
+git push origin main
+git commit -m "Comment"
+git rebase --continue
+git remote add orgin link from github repository
+
+

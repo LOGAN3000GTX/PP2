@@ -1,4 +1,4 @@
-# 1. Create a list of 5 numbers. Output: 1. the sum of all the numbers, 2. maximum and minimum values
+﻿# 1. Create a list of 5 numbers. Output: 1. the sum of all the numbers, 2. maximum and minimum values
 """
 elements = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 sum = 0
